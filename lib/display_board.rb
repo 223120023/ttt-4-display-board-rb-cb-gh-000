@@ -12,4 +12,3 @@ def display_board(board)
   puts spaceKosong(board[6])+pembatasVertikal+spaceKosong(board[7])+pembatasVertikal+spaceKosong(board[8])
 end
 end
-  
