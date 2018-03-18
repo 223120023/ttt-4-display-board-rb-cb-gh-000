@@ -1,7 +1,7 @@
 # Define display_board that accepts a board and prints
 # out the current state.
 def display_board(board)
-  def spaceKosong(board[]="   ")
+  def spaceKosong(board="   ")
   pembatasVertikal="|"
   pembatasHorizontal="-----------"
 
